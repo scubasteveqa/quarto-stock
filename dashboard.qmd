@@ -2,9 +2,10 @@
 title: "Stock Explorer"
 author: "Ty Coon"
 logo: logo.png
-format: 
-  dashboard:
-    theme: [yeti, custom.scss]
+server: shiny
+#format: 
+#  dashboard:
+#    theme: [yeti, custom.scss]
 ---
 
 ```{python}
